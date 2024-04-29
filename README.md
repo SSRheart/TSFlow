@@ -1,4 +1,4 @@
-# Learning Diverse Tone Styles for Image Retouching
+# Learning Diverse Tone Styles for Image Retouching (Accpeted by TIP 2023)
 
 This is the official repository for our paper:
 **Learning Diverse Tone Styles for Image Retouching**
